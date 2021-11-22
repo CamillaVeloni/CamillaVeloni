@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Camilla
-- 🌱 Eu estou estudando reactjs, react native e typescript atualmente
+- 🌱 Eu estou estudando react, react native e typescript, atualmente
 - 📫 Você pode entrar em contato pelo meu linkedin - https://www.linkedin.com/in/camilla-veloni-5021a320b/ 
 
 <!---
