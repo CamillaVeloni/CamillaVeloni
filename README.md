@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Camilla
+- 👋 Olá, meu nome é Camilla Veloni
 - 🌱 Eu estou estudando dart e flutter, atualmente
 - 📫 Você pode entrar em contato pelo meu linkedin - https://www.linkedin.com/in/camilla-veloni-5021a320b/ 
 
