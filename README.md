@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Camilla Veloni</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [chilled haven](https://github.com/CamillaVeloni/chilled_haven)
+<!--- 🔭 I’m currently working on [chilled haven](https://github.com/CamillaVeloni/chilled_haven)--->
 
 - 🌱 I’m currently learning **nodeJS, mongoDB**
 
