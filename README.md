@@ -8,9 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- 🔭 I’m currently working on [chilled haven](https://github.com/CamillaVeloni/chilled_haven)--->
 
-- 🌱 I’m currently learning **nodeJS, mongoDB**
-
-- 💬 Ask me about **flutter, dart**
+- 🌱 I’m currently working with **flutter, dart**
 
 - 📫 How to reach me **cristinaveloni@gmail.com**
 
